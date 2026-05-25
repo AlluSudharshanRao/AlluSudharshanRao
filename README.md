@@ -90,7 +90,7 @@ I'm **Sudharshan Rao Allu**, an MS **Computer Engineering** student at **NYU Tan
 
 | Degree | School | Dates |
 |--------|--------|-------|
-| **MS, Computer Engineering** | NYU Tandon School of Engineering | Aug 2025 – May 2027 |
+| **MS, Computer Engineering** | NYU Tandon School of Engineering | Aug 2025 – May 2027 · GPA 3.9 |
 | **BTech, Computer Science & Engineering** | National Institute of Technology Sikkim | Dec 2020 – May 2024 · GPA 7.97 |
 
 **MS coursework:** ML · Deep Learning · MLOps · Internet Architecture · Network Design & Algorithms
