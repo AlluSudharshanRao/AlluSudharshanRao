@@ -178,8 +178,8 @@ I'm **Sudharshan Rao Allu**, an MS **Computer Engineering** student at **NYU Tan
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlluSudharshanRao&show_icons=true&theme=default&hide_border=true&count_private=false" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlluSudharshanRao&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages" height="165"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=AlluSudharshanRao&show_icons=true&theme=default&hide_border=true&count_private=false" alt="GitHub stats" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlluSudharshanRao&exclude=HTML,CSS,JavaScript" alt="Top languages" height="165"/>
 </p>
 
 ---
