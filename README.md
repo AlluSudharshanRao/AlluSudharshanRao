@@ -58,7 +58,7 @@ I'm **Sudharshan Rao Allu**, an MS **Computer Engineering** student at **NYU Tan
 </details>
 <details>
 
-  
+
 <summary><b>Teaching</b></summary>
 
   <br>
