@@ -200,5 +200,5 @@ I'm **Sudharshan Rao Allu**, an MS **Computer Engineering** student at **NYU Tan
 ---
 
 <p align="center">
-  <i>Research Intern @ NYU Tandon ECE · MS: ML · DL · MLOps · networking</i>
+  <i>Student Researcher @ NYU Tandon ECE · MS: ML · DL · MLOps · networking</i>
 </p>
