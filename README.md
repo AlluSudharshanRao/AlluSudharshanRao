@@ -56,6 +56,20 @@ I'm **Sudharshan Rao Allu**, an MS **Computer Engineering** student at **NYU Tan
 - SDN switch-migration load balancing (+33.6% utilization) — [COMSNETS 2025](https://allusudharshanrao.github.io/publications.html)
 
 </details>
+<details>
+
+  
+<summary><b>Teaching</b></summary>
+
+  <br>
+
+  **Teaching Assistant — Deep Learning** · NYU Tandon · `Sep 2026 – Present` · Brooklyn, NY
+  - Teaching Assistant for Deep Learning (CS-GY 6953), NYU Tandon. I support lectures, labs, assignments, and grading, and help students with neural network fundamentals, CNNs, RNNs and sequence models, attention and Transformers, and training and evaluation in PyTorch.
+
+  **Teaching Assistant — Databases** · NYU Tandon · `Sep 2026 – Present` · Brooklyn, NY
+  - Teaching Assistant for Principles of Database Systems (CS-GY 6083), NYU Tandon, with Prof. Ratan Dey. I support labs, assignments, and grading, and help students with ER modeling, relational schema design, and SQL. I also designed the course's AI-track project, a database application with an AI component, covering the ER diagram, relational schema, and project scope.
+   
+</details>
 
 <details>
 <summary><b>Industry & applied ML</b></summary>
