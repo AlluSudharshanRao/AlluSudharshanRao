@@ -34,8 +34,12 @@ I'm **Sudharshan Rao Allu**, an MS **Computer Engineering** student at **NYU Tan
 
 <br>
 
-**Research Intern** · NYU Tandon — Electrical & Computer Engineering  
-`May 2026 – Present` · Brooklyn, NY
+**Student Researcher** · NYU Tandon — Electrical & Computer Engineering  
+`Sep 2026 – Present` · Brooklyn, NY
+- Continuing the research from my summer internship at NYU. ML systems research on grid-friendly AI data centers: GPU workload power, training/inference scheduling, and how ML clusters interact with datacenter and grid constraints. Advisors: Wenqi Cui, Brandon Reagen. (Python, PyTorch)
+
+ **Research Intern** · NYU Tandon — Electrical & Computer Engineering  
+`May 2026 – Aug 2026` · Brooklyn, NY
 
 - Algorithm co-design for **grid-friendly AI datacenters** — workload shaping, scheduling, and power under GPU training/inference
 - Simulation and modeling tied to datacenter–grid coordination ([arXiv:2508.14318](https://arxiv.org/abs/2508.14318) · [blog](https://allusudharshanrao.github.io/blogs.html))
