@@ -77,9 +77,10 @@ I'm **Sudharshan Rao Allu**, an MS **Computer Engineering** student at **NYU Tan
 <br>
 
 **Data Science Intern** · Intellithink Industrial IoT  
-`Jul 2024 – Jul 2025` · Bengaluru, India (part-time)
+`Jun 2023 – Aug 2023` · Bengaluru, India
 
-- Hybrid **LSTM + DBN** models for bearing RUL on NASA datasets; FFT/feature pipeline for vibration diagnostics
+- Built an LSTM model to predict remaining useful life (RUL) for rotating components in industrial IoT systems
+- Worked on sensor data analysis and predictive modeling
 
 **Software Engineer** · Zessta Software Services  
 `Jun 2024 – Aug 2024` · Hyderabad, India
