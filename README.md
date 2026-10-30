@@ -87,6 +87,10 @@ I'm **Sudharshan Rao Allu**, an MS **Computer Engineering** student at **NYU Tan
 
 - Data ingestion pipelines (Selenium, Pandas); **Docker/Kubernetes** deployments; SonarQube integration
 
+**Software Engineer Intern** · Evercons Technologies  
+`Dec 2022 – Feb 2023` · Remote
+- Built robust backends using REST APIs, Node.js, and AWS; gained hands-on experience managing MongoDB databases
+
 </details>
 
 <details>
