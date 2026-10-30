@@ -22,7 +22,7 @@ MS Computer Engineering @ **NYU Tandon** (May 2027)
 I'm **Sudharshan Rao Allu**, an MS **Computer Engineering** student at **NYU Tandon** (graduating **May 2027**). I build **end-to-end ML systems** and **production backends**—from training and experiment tracking through model serving on **Kubernetes**, observability, and **REST APIs** teams can ship and operate.
 
 - 🔬 **Current focus:** grid-friendly **AI datacenters** — GPU workload power, scheduling, and control ([research](https://allusudharshanrao.github.io/experience.html#nyu-grid-datacenter-research) · [blog](https://allusudharshanrao.github.io/blogs.html))
-- 🛠 **What I ship:** MLOps on **k3s**, **LLM/RAG** serving, **FastAPI** inference APIs, Terraform/Ansible/Helm platforms
+- 🛠 **What I ship:** MLOps on **k3s**, **LLM/RAG** serving, **FastAPI** inference APIs, Terraform/Ansible platforms
 - 📍 **Location:** New York, NY · [Full profile →](https://allusudharshanrao.github.io)
 
 ---
@@ -135,7 +135,7 @@ I'm **Sudharshan Rao Allu**, an MS **Computer Engineering** student at **NYU Tan
 
 **MLOps & platforms**
 
-- Kubernetes · k3s · Docker · Helm
+- Kubernetes · k3s · Docker
 - Terraform · Ansible · CI/CD
 - Prometheus · Grafana · MinIO
 - Canary / staging → production promotion
