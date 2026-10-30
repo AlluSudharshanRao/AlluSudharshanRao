@@ -85,7 +85,7 @@ I'm **Sudharshan Rao Allu**, an MS **Computer Engineering** student at **NYU Tan
 **Software Engineer** · Zessta Software Services  
 `Jun 2024 – Aug 2024` · Hyderabad, India
 
-- Data ingestion pipelines (Selenium, Pandas); **Docker/Kubernetes** deployments; SonarQube integration
+- Data ingestion pipelines (Selenium, Pandas) for large-scale datasets, improving ingestion efficiency by ~30%; **Docker/Kubernetes** deployments; SonarQube integration
 
 **Software Engineer Intern** · Evercons Technologies  
 `Dec 2022 – Feb 2023` · Remote
@@ -152,7 +152,7 @@ I'm **Sudharshan Rao Allu**, an MS **Computer Engineering** student at **NYU Tan
 
 **Languages & tools**
 
-- Python (primary) · SQL · Bash
+- Python (primary) · C · SQL · Bash
 - Git · GitHub Actions
 - Pandas · NumPy · scikit-learn
 - Streamlit (apps & demos)
